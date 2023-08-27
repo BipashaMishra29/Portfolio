@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.about, .projects, .contact {
+  padding: 40px;
+  background-color: aquamarine;
+}
+
+.Education{
+  padding: 40px;
+  background-color: aquamarine;
+}
+
+.Tecnicalskills{
+  padding: 40px;
+  background-color: aquamarine;
+}
+
+.projects {
+  padding: 40px;
+  background-color: #f4f4f4;
+}
+
+.project {
+  background-color: aquamarine;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact {
+  padding: 40px;
+  background-color: aquamarine;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color:gray;
+  color: white;
+}
+  
